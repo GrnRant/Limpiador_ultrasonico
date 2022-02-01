@@ -1,0 +1,12 @@
+GeneratorModel for yakindu::c{
+	
+	statechart ProgramaPrincipal{
+			feature Outlet {
+			targetProject = "firmware_v3"
+			targetFolder = "limpiador_ultrasonico/EDU_CIAA_programa/gen"
+			libraryTargetFolder = "limpiador_ultrasonico/EDU_CIAA_programa/inc"
+		}
+
+	}
+
+}
